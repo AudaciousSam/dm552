@@ -5,3 +5,8 @@
 1. Infinite lists, list comprehension, tuples, function definition (Chapter 1,3 LYH).
 1. Abstract Machines, Interpreter, Compiler (Chapter 1) and beginning of Chapter 2.
 1. Where, let in, as pattern (Chapter 3, LYH), types and type classes (Chapter 2, LYH).
+
+
+
+Date for each chapter to be read for.
+Book name of the chapters wanted to be read.
